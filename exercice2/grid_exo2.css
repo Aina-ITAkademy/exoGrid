@@ -1,0 +1,44 @@
+
+header {
+    height: 15vh;
+    border:solid;
+}
+
+#menu {
+    height: 20vh;
+    border:solid;
+}
+
+#content {
+    height: 30vh;
+    border:solid;
+}
+
+#ad {
+    height: 20vh;
+    border:solid;
+}
+
+footer {
+    height: 15vh;
+    border:solid;
+}
+
+@media screen and (min-width: 768px) {
+
+    #menu {
+        height: 30vh;
+    }
+
+ }
+
+@media screen and (min-width: 1050px) {
+
+    #ad {
+        height: 30vh;
+    }
+
+}
+
+
+
